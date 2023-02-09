@@ -1,0 +1,15 @@
+id: A0029999A
+title: 'MSV 6,04: Pañcaka'
+type: translation
+pechas:
+- I8E9706ED
+- I84D1D916
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:15:09.856213
+  last_modified_at: 2023-02-10 00:15:09.856225
+alignment_to_base:
+  I8E9706ED/7164: 278A
+  I84D1D916/2883: 278A
